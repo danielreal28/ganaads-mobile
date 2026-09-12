@@ -1,0 +1,9 @@
+{
+  "appId": "com.ganaads.app",
+  "appName": "GanaAds",
+  "webDir": "www",
+  "server": {
+    "url": "https://ganaads-web.onrender.com",
+    "cleartext": false
+  }
+}
